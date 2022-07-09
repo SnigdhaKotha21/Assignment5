@@ -148,3 +148,8 @@ C:\Users\sande\source\repos\Assgnment13\Assignment13\obj\Debug\netcoreapp3.1\Ass
 C:\Users\sande\source\repos\Assgnment13\Assignment13\obj\Debug\netcoreapp3.1\Assignment13.dll
 C:\Users\sande\source\repos\Assgnment13\Assignment13\obj\Debug\netcoreapp3.1\Assignment13.pdb
 C:\Users\sande\source\repos\Assgnment13\Assignment13\obj\Debug\netcoreapp3.1\Assignment13.genruntimeconfig.cache
+C:\Users\sande\source\repos\Assgnment13\Assignment13\obj\Debug\netcoreapp3.1\Razor\Views\Employees\Create.cshtml.g.cs
+C:\Users\sande\source\repos\Assgnment13\Assignment13\obj\Debug\netcoreapp3.1\Razor\Views\Employees\Delete.cshtml.g.cs
+C:\Users\sande\source\repos\Assgnment13\Assignment13\obj\Debug\netcoreapp3.1\Razor\Views\Employees\Details.cshtml.g.cs
+C:\Users\sande\source\repos\Assgnment13\Assignment13\obj\Debug\netcoreapp3.1\Razor\Views\Employees\Edit.cshtml.g.cs
+C:\Users\sande\source\repos\Assgnment13\Assignment13\obj\Debug\netcoreapp3.1\Razor\Views\Employees\Index.cshtml.g.cs
